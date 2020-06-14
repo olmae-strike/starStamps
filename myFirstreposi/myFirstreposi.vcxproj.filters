@@ -45,6 +45,15 @@
     <ClCompile Include="star_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="star_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="star_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Clecture\lecture\_2020_6_12\test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\turboc.h">
