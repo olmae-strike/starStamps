@@ -5,7 +5,7 @@ void main()
 	int n;
 	char ch;
 	//fflush(stdin);
-	ch = getch();
+	ch = _getch();
 	n = atoi(&ch);
 	for (int i = 0; i < n; i++)
 	{
