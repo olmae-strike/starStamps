@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\..\..\..\..\Clecture\olmae-strike\112123\base.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\star_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
